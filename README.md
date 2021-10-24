@@ -10,11 +10,11 @@
 6-2. Gradle Project import   
 6-3. /kps-test/build.gradle Refresh Gradle Project   
 6-4. Boot Dashboard Spring Boot App start(kps-test)   
-7. Gradle Build 오류 발생 시 문제해결 방법: window > properties > Advanced Options > Java home 정보를 설치된 jdk1.8.0_301(java) 폴더를 선택
+7. Gradle Build 오류 발생 시 문제해결 방법:   window > properties > Advanced Options > Java home 정보를 설치된 jdk1.8.0_301(java) 폴더를 선택
 8.단위테스트(Unit Test) 실행
 8.1. /kps-test/src/test/java/com/kpsec/KpsTestApplicationTests.java 파일 선택 후 마우스 오른쪽 클릭
 8.2. Run As > JUnit Test 실행
-8.3. Console 확인
+8.3. Console 확인   
 9. API URL
 9.1. 2018년, 2019년 각 연도별 합계 금액이 가장 많은 고객을 추출하는 API: http://localhost:8080/kps/coustHighSumAmt   
 9.2. 2018년 또는 2019년에 거래가 없는 고객을 추출하는 API: http://localhost:8080/kps/customerWithoutTrans   

@@ -5,11 +5,11 @@
 3. IDE: STS
 4. Build: Gradle
 5. github URL: https://github.com/obeom/kps-test.git
-6. 빌드 및 실행 방법
-6-1. https://github.com/obeom/kps-test.git URL 다운로드 및 Git Repositories clone
-6-2. Gradle Project import
-6-3. /kps-test/build.gradle Refresh Gradle Project
-6-4. Boot Dashboard Spring Boot App start(kps-test)
+6. 빌드 및 실행 방법   
+6-1. https://github.com/obeom/kps-test.git URL 다운로드 및 Git Repositories clone   
+6-2. Gradle Project import   
+6-3. /kps-test/build.gradle Refresh Gradle Project   
+6-4. Boot Dashboard Spring Boot App start(kps-test)   
 7. Gradle Build 오류 발생 시 문제해결 방법: window > properties > Advanced Options > Java home 정보를 설치된 jdk1.8.0_301(java) 폴더를 선택
 8.단위테스트(Unit Test) 실행
 8.1. /kps-test/src/test/java/com/kpsec/KpsTestApplicationTests.java 파일 선택 후 마우스 오른쪽 클릭

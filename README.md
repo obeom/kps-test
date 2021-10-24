@@ -1,6 +1,6 @@
 # kps-test
 
-1. 개발 프레임웍크 : Spring boot
+1. 개발 프레임웍크 : Spring boot   
 2. JAVA 버전 : jdk1.8.0_301
 3. IDE: STS
 4. Build: Gradle
